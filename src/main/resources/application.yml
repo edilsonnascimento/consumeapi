@@ -1,0 +1,4 @@
+coderbyte:
+  api:
+    uri-base: https://coderbyte.com
+    age-counting-uri: /api/challenges/json/age-counting
